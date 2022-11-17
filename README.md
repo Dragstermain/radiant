@@ -1,1 +1,1 @@
-# radiant
+# assistant for solving logical tasks
